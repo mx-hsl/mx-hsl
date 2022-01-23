@@ -1,7 +1,7 @@
 # Hey, I´m Max
 - 👋 @mx-hsl
-- 👀 I’m and interested in diffent topics around data science and data analytics.
-- 🌱 I’m currently learning at data and ML pipelines. 
+- 👀 I’m interested in diffent topics around data science and data analytics.
+- 🌱 I’m currently learning at data, ML pipelines and C++. 
 - 💞️ I’m looking forward for any kind of collaboration within this interesting field.
 <!--- - 📫 How to reach me ...--->
 
